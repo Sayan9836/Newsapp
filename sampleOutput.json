@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NBC 10 Philadelphia"
+            },
+            "author": "Rudy Chinchilla",
+            "title": "Officers Wounded, Masses Scatter After Shooting Near Parkway Concert - NBC 10 Philadelphia",
+            "description": "Police were responding after two officers were shot near the Benjamin Franklin Parkway as thousands of people celebrated a 4th of July concert and fireworks…",
+            "url": "https://www.nbcphiladelphia.com/news/local/police-respond-to-reports-of-officers-shot-near-parkway-concert/3290066/",
+            "urlToImage": "https://media.nbcphiladelphia.com/2022/07/ParkwayCrowds.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2022-07-05T04:32:51Z",
+            "content": "Lee esta historia en español aquí.\r\nPolice were responding after two officers were shot near the Benjamin Franklin Parkway as thousands of people celebrated a 4th of July concert and fireworks show.\r… [+4383 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Tarm, Kathleen Foody",
+            "title": "6 dead, 30 hurt in shooting at Chicago-area July 4 parade - The Associated Press",
+            "description": "HIGHLAND PARK, Ill. (AP) — A gunman on a rooftop opened fire on an Independence Day parade in suburban Chicago on Monday, killing at least six people, wounding at least 30 and sending hundreds of marchers, parents with strollers and children on bicycles fleei…",
+            "url": "https://apnews.com/article/chicago-july-4-parade-shooting-92b50feb80c19afe7842b9caf08545cb",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/bb3bd9d86b3e4faabc4801350a7a4afa/3000.jpeg",
+            "publishedAt": "2022-07-05T04:00:40Z",
+            "content": "HIGHLAND PARK, Ill. (AP) A gunman on a rooftop opened fire on an Independence Day parade in suburban Chicago on Monday, killing at least six people, wounding at least 30 and sending hundreds of march… [+9161 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hilary Whiteman, CNN",
+            "title": "Sydney is flooded, again, as climate crisis becomes new normal for Australia's most populous state - CNN",
+            "description": "What was previously a once-in-a-generation event has become commonplace, raising questions as to the long term sustainability of flood-prone communities in Australia's New South Wales.",
+            "url": "https://www.cnn.com/2022/07/04/australia/sydney-floods-damage-evacuation-climate-australia-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220704203310-02-sydney-flooding-0704-super-tease.jpg",
+            "publishedAt": "2022-07-05T03:50:00Z",
+            "content": "Brisbane, Australia (CNN)On a fine day, locals arrive on boats that motor up the Hawkesbury River in New South Wales to dine on the back deck of the Paradise Café. \r\nBut for the fourth time in 18 mon… [+7934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "China's Liu He and U.S. Treasury Secretary Janet Yellen hold virtual talks - CNBC",
+            "description": "China's Vice Premier Liu He and U.S. Treasury Secretary Janet Yellen held a virtual call about macroeconomic issues, according to statements from both sides.",
+            "url": "https://www.cnbc.com/2022/07/05/chinas-liu-he-us-treasury-secretary-janet-yellen-hold-virtual-talks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106889086-1622114528109-gettyimages-1193896408-AFP_1NQ60O.jpeg?v=1656989796&w=1920&h=1080",
+            "publishedAt": "2022-07-05T03:42:00Z",
+            "content": "BEIJING China's Vice Premier Liu He and U.S. Treasury Secretary Janet Yellen held a virtual call Tuesday about macroeconomic issues, according to official statements from both sides.\r\nThe Chinese rea… [+735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Twins, Byron Buxton turn first 8-5 triple play in MLB history vs. White Sox - CBS Sports",
+            "description": "The White Sox ran into the triple play more than the Twins turned it, most people would say",
+            "url": "https://www.cbssports.com/mlb/news/twins-byron-buxton-turn-first-8-5-triple-play-in-mlb-history-vs-white-sox/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/05/5efe65a8-43ef-4e1f-a184-a4127811f35b/thumbnail/1200x675/62b472f8ea5f2a0e3cf4b11d9c459ea6/gettyimages-14068210401.jpg",
+            "publishedAt": "2022-07-05T03:17:00Z",
+            "content": "Every time you go to the ballpark you might see something you've never seen before. And such was the case Monday at Guaranteed Rate Field, where fans saw the first 8-5 triple play in MLB history. The… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Meryl Kornfield, Scott Higham, Sari Horwitz",
+            "title": "Federal judge rules against hard-hit West Virginia community in opioid trial - The Washington Post",
+            "description": "Judge David A. Faber dismissed the argument made by Cabell County and its seat, Huntington, that three drug distributors bore responsibility for the consequences of an inundation of opioids.",
+            "url": "https://www.washingtonpost.com/health/2022/07/04/federal-judge-rules-against-hard-hit-west-virginia-community-opioid-trial/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DKD5DWHJCQI6XIV2HPRR2NESLA.jpg&w=1440",
+            "publishedAt": "2022-07-05T02:46:00Z",
+            "content": "Placeholder while article actions load\r\nIn a blow to claims that drug companies fueled the opioid crisis, a federal judge ruled Monday that the nations three major drug distributors did not cause a p… [+8970 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, CNN",
+            "title": "What we know about the fatal police shooting of Jayland Walker - CNN",
+            "description": "The city of Akron, Ohio, is on edge this Fourth of July, one week after the fatal police shooting of 25-year-old Jayland Walker.",
+            "url": "https://www.cnn.com/2022/07/04/us/jayland-walker-shooting-what-we-know/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220704014853-jayland-walker-file-family-photo-super-tease.jpg",
+            "publishedAt": "2022-07-05T02:40:00Z",
+            "content": "(CNN)The city of Akron, Ohio, is on edge this Fourth of July, one week after the fatal police shooting of 25-year-old Jayland Walker. \r\nA news conference by city officials Sunday, along with the rele… [+6483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "United States vs. Haiti - Football Match Report - July 4, 2022 - ESPN",
+            "description": "Get a report of the United States vs. Haiti 2022 CONCACAF W Championship, Group Stage football match.",
+            "url": "https://www.espn.com/soccer/report/_/gameId/634607",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0705%2Fr1032589_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-05T02:32:24Z",
+            "content": "Alex Morgan scored a first-half brace and Margaret Purce added a late goal as the United States women's national team beat Haiti 3-0 in group stage action at the CONCACAF W Championship.\r\n- Rapinoe t… [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "‘Stranger Things 4’ Writers Reveal Three Season Finale Moments That Were Improvised By The Actors - Deadline",
+            "description": "WARNING, spoilers ahead: After Stranger Things 4 had its monster sized, two-episode finale on Friday, the series’ writers took to Twitter to reveal three moments from that finale that weren’t in the script. At one point, Winona Ryder’s Joyce sees off David Ha…",
+            "url": "https://deadline.com/2022/07/stranger-things-4-writers-season-finale-moments-actors-improvised-1235057857/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-04-at-5.37.52-PM.png?w=846",
+            "publishedAt": "2022-07-05T01:26:00Z",
+            "content": "WARNING, spoilers ahead: After Stranger Things 4 had its monster sized, two-episode finale on Friday, the series’ writers took to Twitter to reveal three moments from that finale that weren’t in the … [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Griner sends letter to President Biden pleading for his help - POLITICO",
+            "description": "Most of the letter’s contents to President Biden remain private, though Griner’s representatives shared a few lines from the hand-written note.",
+            "url": "https://www.politico.com/news/2022/07/04/griner-letter-biden-help-00043956",
+            "urlToImage": "https://static.politico.com/28/9a/c8616ad24da7971b731aa030127a/pictures-of-the-week-global-photo-gallery-02372.jpg",
+            "publishedAt": "2022-07-05T00:42:48Z",
+            "content": "On the 4th of July, our family normally honors the service of those who fought for our freedom, including my father who is a Vietnam War Veteran, the Phoenix Mercury center added. It hurts thinking a… [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "James Rubin",
+            "title": "First Mover Asia: Bitcoin Rebounds Past $20K; China's Blockchain Revolution Is Missing On-Chain Data - CoinDesk",
+            "description": "Ether and most other major altcoins regain ground they'd lost in last week's downturn; China companies seem unconvinced by blockchain technology.",
+            "url": "https://www.coindesk.com/markets/2022/07/05/first-mover-asia-bitcoin-rebounds-past-20k-chinas-blockchain-revolution-is-missing-on-chain-data/",
+            "urlToImage": "https://www.coindesk.com/resizer/0t2khVLbfYXcGY_eKGj_uc64-TY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2ZYE7TBVUJGAVIFDRNDSTHVBZM.png",
+            "publishedAt": "2022-07-05T00:20:00Z",
+            "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin gains ground hovering just above $20K.\r\nInsights: China's blockchain revolution may not be so revolutionary.\r\nCatch the latest episodes ofCoinDes… [+9913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Ben Sin",
+            "title": "Xiaomi 12S Ultra Hands-On: Putting that 1-inch Leica camera to the test - XDA Developers",
+            "description": "The Xiaomi 12S Ultra brings a brand new 1-inch camera sensor with Leica optics, plus a large beautiful display. We go hands-on with it!",
+            "url": "https://www.xda-developers.com/xiaomi-12s-ultra-hands-on/",
+            "urlToImage": "https://www.xda-developers.com/files/2022/07/xiaomi-12s-ultra-xda-14566645897698768768767867.jpg",
+            "publishedAt": "2022-07-05T00:00:00Z",
+            "content": "The Xiaomi 12 Pro that came out four months ago was a very good 2022 Android flagship that got a good reception on just about every tech site, including this one. But yet, if you read my review close… [+10724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kelly Gilmore",
+            "title": "Why Victoria Beckham Is Concerned for Daughter Harper to Join \"Quite Terrifying\" Social Media - Yahoo Entertainment",
+            "description": "Victoria Beckham shared that she is worried about her daughter Harper Beckham joining social media one day. Learn why the \"Viva Forever\" singer finds the...",
+            "url": "https://www.yahoo.com/entertainment/why-victoria-beckham-concerned-daughter-235500708.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/JdvZCCH3X_SKodqy7ZXPwQ--~B/aD0xMjAwO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/e__181/9af5db9d1be5de3af85498387ebce63b",
+            "publishedAt": "2022-07-04T23:55:00Z",
+            "content": "Victoria Beckham isn't exactly ready for her daughter to have an Instagram profile.\r\nThe former Spice Girls member shared that her daughter Harper Beckham, 10, isn't on any social platforms at the mo… [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kerry Byrne",
+            "title": "Joey Chestnut downs 63 hot dogs, wins Nathan's Famous contest for 15th time - Fox News",
+            "description": "Competitive eating phenom Joey Chestnut captured his 15th title on Monday, July 4th, at Nathan’s Famous Hot Dog Eating Contest, an annual Independence Day tradition on Coney Island.",
+            "url": "https://www.foxnews.com/lifestyle/joey-chestnut-63-hot-dogs-nathan-famous",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/IMG_1502.jpg",
+            "publishedAt": "2022-07-04T23:42:29Z",
+            "content": "Competitive eating phenom Joey Chestnut captured his 15th title on Monday at the Nathans Famous Hot Dog Eating Contest, an annual Independence Day tradition on Coney Island, N.Y.\r\nThe wiener warrior … [+3275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin",
+            "title": "Stock futures are flat after another losing week on Wall Street - CNBC",
+            "description": "Stock futures slid in overnight trading after the major averages finished another losing week.",
+            "url": "https://www.cnbc.com/2022/07/04/stock-market-futures-open-to-close-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107083995-1656701918850-Traders-TF-Photo-20220101-ACJ-020-PRESS-3.jpg?v=1656701972&w=1920&h=1080",
+            "publishedAt": "2022-07-04T22:08:42Z",
+            "content": "Stock futures were flat in overnight trading after the major averages finished another losing week.\r\nStock futures tied to the Dow Jones Industrial Average slipped 10 points or 0.03%. S&amp;P 500 fut… [+1544 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Putin declares victory in eastern Ukraine region of Luhansk - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvd2lyZS8zNTQ1ODUxLXB1dGluLWRlY2xhcmVzLXZpY3RvcnktaW4tZWFzdGVybi11a3JhaW5lLXJlZ2lvbi1vZi1sdWhhbnNrL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-04T22:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Kurt Helin",
+            "title": "Jeanie Buss Tweet has fans nostalgic for Kobe, wondering if/how it applies to Kyrie Irving - NBC Sports",
+            "description": "\"Uneasy lies the head that wears a crown.\"",
+            "url": "https://nba.nbcsports.com/2022/07/04/jeanie-buss-tweet-has-fans-nostalgic-for-kobe-wondering-if-how-it-applies-to-kyrie-irving/",
+            "urlToImage": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2022/07/GettyImages-1344824753-e1656965853650.jpg",
+            "publishedAt": "2022-07-04T21:30:00Z",
+            "content": "Uneasy lies the head that wears a crown.\r\nThe Lakers are moving toward taking one of the biggest gambles of the summer, trading forKyrie Irving to return them to contender status. Its a move LeBron J… [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "the Associated Press",
+            "title": "Paul Haggis Released from Hotel Detention in Italy - Hollywood Reporter",
+            "description": "A judge in southern Italy on Monday ordered film director Paul Haggis released from detention at his hotel while prosecutors decide whether to pursue their investigation of whether he allegedly had sex with a woman without her consent over two days, his lawye…",
+            "url": "https://www.hollywoodreporter.com/news/general-news/paul-haggis-released-house-arrest-italy-assault-allegations-1235175407/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/Paul-Haggis-AmiCorti-Getty-H-2021.jpg?w=1024",
+            "publishedAt": "2022-07-04T20:27:45Z",
+            "content": "A judge in southern Italy on Monday ordered film director Paul Haggis released from detention at his hotel while prosecutors decide whether to pursue their investigation of whether he allegedly had s… [+1773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Patrick Wintour",
+            "title": "Ukraine lays out $750bn 'recovery plan' for postwar future - The Guardian",
+            "description": "Volodymyr Zelenskiy says process of recovery will allow his country to deepen its links with Europe",
+            "url": "https://amp.theguardian.com/world/2022/jul/04/ukraine-zelenskiy-lays-out-750bn-recovery-plan-for-postwar-future",
+            "urlToImage": null,
+            "publishedAt": "2022-07-04T20:17:00Z",
+            "content": "UkraineVolodymyr Zelenskiy says process of recovery will allow his country to deepen its links with Europe\r\nThe eventual restoration of Ukraine through a $750bn (£620bn) recovery plan is the common t… [+4690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Jason Fagone",
+            "title": "Why UCSF's Bob Wachter says COVID variant BA.5 is 'a different beast' - San Francisco Chronicle",
+            "description": "The new BA.5 strain of the COVID-causing virus is more infectious and better able to...",
+            "url": "https://www.sfchronicle.com/health/article/Why-UCSF-s-Bob-Wachter-says-COVID-variant-BA-5-17283783.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/23/41/70/21896745/6/rawImage.jpg",
+            "publishedAt": "2022-07-04T19:24:43Z",
+            "content": "The new BA.5 strain of the COVID-causing virus is a different beast from ones weve already seen more infectious and better able to evade immune responses and we need to change our thinking about how … [+2428 chars]"
+        }
+    ]
+}
